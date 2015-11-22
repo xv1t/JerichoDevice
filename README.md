@@ -11,6 +11,7 @@ Black Sabbath  | Paranoid                      | 160 |
 Black Sabbath  | Sabbath Bloody Sabbath        |     |
 Jericho Device | Alien world                   |     |
 Jericho Device | Arriving from day             | 134 | :white_check_mark:
+Jericho Device | Dungeon                       |     |
 Jericho Device | Ghost                         | 105 | 
 Jericho Device | Jericho                       | 125 | 
 Jericho Device | Question Between Two Sides    |     |
