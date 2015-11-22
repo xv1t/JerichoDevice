@@ -25,5 +25,5 @@ Kiss | Psycho Circus | 120 |
 Kiss | Strutter | 130 |
 Ozzy Osbourne | I dont wanna change the world | 120 | 100%
 Pink Floyd | Time | |
-Roling Stones | Paint it black | |
+Roling Stones | Paint it black | 160 |
 Sex Pistols | Anarchy in the UK | 135 |
