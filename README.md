@@ -21,6 +21,7 @@ Jericho Device | Time                          |     |
 Jericho Device | To Name a Cat                 | 135 |
 Kiss           | [Psycho Circus](http://www.youtube.com/watch?v=lI1TaF5onuw)                 | 120 | :white_check_mark:
 Kiss           | [Strutter](http://www.youtube.com/watch?v=i7gJQx-Zv2U)                      | 130 |
+Metalica       | [Enter Sandman](http://www.youtube.com/watch?v=_W7wqQwa-TU)                 |     |
 Ozzy Osbourne  | [I dont wanna change the world](http://www.youtube.com/watch?v=8d6AgoFStFQ) | 120 | :white_check_mark:
 Pain           | [Shut Your mouth](http://www.youtube.com/watch?v=C1mRO8aqjz8)               |     |
 Pink Floyd     | [Time](http://www.youtube.com/watch?v=Z-OytmtYoOI)                          | 134 |
