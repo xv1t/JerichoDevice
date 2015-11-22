@@ -21,7 +21,7 @@ Jericho Device | Shadow Princes                | 100 |
 Jericho Device | The Dune                      | 126 |
 Jericho Device | Time                          |     |
 Jericho Device | To Name a Cat                 | 135 |
-Kiss           | Psycho Circus                 | 120 |
+Kiss           | Psycho Circus                 | 120 | :white_check_mark:
 Kiss           | Strutter                      | 130 |
 Ozzy Osbourne  | I dont wanna change the world | 120 | :white_check_mark:
 Pain           | Shut Your mouth               |     |
