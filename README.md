@@ -2,9 +2,9 @@
 
   Artist       | Title                         | BPM | Drum tabs
 ---------------|-------------------------------|----:|:-----:
-Alice Cooper   | Hi's back                     |     | -
-Alice Cooper   | Love loaded guns              | 84  | :white_check_mark:
-Alice Cooper   | What do you want from me      | 150 | :white_check_mark:
+Alice Cooper   | [Hi's back](http://www.youtube.com/watch?v=K9LLJn_woRg)                     |     | -
+Alice Cooper   | [Love loaded guns](http://www.youtube.com/watch?v=jcEzx5HLYEw)              | 84  | :white_check_mark:
+Alice Cooper   | [What do you want from me](http://www.youtube.com/watch?v=79h77gWDzjI)      | 150 | :white_check_mark:
 Black Sabbath  | Never Say Die                 | 96  |
 Black Sabbath  | N.I.B.                        | 102 |
 Black Sabbath  | Paranoid                      | 160 | 
