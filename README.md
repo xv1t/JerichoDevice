@@ -27,4 +27,5 @@ Ozzy Osbourne  | I dont wanna change the world | 120 | :white_check_mark:
 Pain           | Shut Your mouth               |     |
 Pink Floyd     | Time                          | 134 |
 Roling Stones  | Paint it black                | 160 |
-Sex Pistols    | Anarchy in the UK | 135 |
+Sex Pistols    | Anarchy in the UK             | 135 |
+Tiamat         | Vote for Love                 |
