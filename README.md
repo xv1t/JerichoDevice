@@ -4,7 +4,7 @@ Actual drum tabs for repertuar
 ![](http://cs319425.vk.me/g17278991/a_a663ce5d.jpg)
 
 Artist | Song | BPM | Drum tabs status
--------|------|-----|-------
+-------|------|----:|:-----:
 Alice Cooper | Hi's back | | -
 Alice Cooper | Love loaded guns | 84 | 100%
 Alice Cooper | What do you want from me | 150 | 100%
