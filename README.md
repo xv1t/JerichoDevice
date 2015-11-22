@@ -14,9 +14,14 @@ Black Sabbath | Paranoid | |
 Black Sabbath | Sabbath Bloody Sabbath | |
 Jericho Device | Alien world | |
 Jericho Device | Arriving from day | 134 | 100%
+Jericho Device | Ghost | | 
 Jericho Device | Jericho | | 
 Jericho Device | Question Between Two Sides | |
+Jericho Device | Shadow Princes | |
+Jericho Device | Time | |
 Jericho Device | To Name a Cat | |
+Kiss | Psycho Circus | |
 Kiss | Strutter | |
 Ozzy Osbourne | I dont wanna change the world | 120 | 100%
+Pink Floyd | Time | |
 Roling Stones | Paint it black | |
