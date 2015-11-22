@@ -25,5 +25,5 @@ Ozzy Osbourne  | [I dont wanna change the world](http://www.youtube.com/watch?v=
 Pain           | [Shut Your mouth](http://www.youtube.com/watch?v=C1mRO8aqjz8)               |     |
 Pink Floyd     | [Time](http://www.youtube.com/watch?v=Z-OytmtYoOI)                          | 134 |
 Roling Stones  | [Paint it black](http://www.youtube.com/watch?v=50u9bxRwBJI)                | 160 |
-Sex Pistols    | [Anarchy in the UK](http://www.youtube.com/watch?v=cBojbjoMttI)             | 135 |
+Sex Pistols    | [Anarchy in the UK](http://www.youtube.com/watch?v=cBojbjoMttI)             | 135 | :white_check_mark:
 Tiamat         | [Vote for Love](http://www.youtube.com/watch?v=MAvVTRsMAOg)                 |
