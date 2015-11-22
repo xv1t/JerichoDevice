@@ -1,6 +1,6 @@
-# Jerico Device
+> Jericho Device repertuar
 
-  Artist       | Title                         | BPM | Drum tabs status
+  Artist       | Title                         | BPM | Drum tabs
 ---------------|-------------------------------|----:|:-----:
 Alice Cooper   | Hi's back                     |     | -
 Alice Cooper   | Love loaded guns              | 84  | :white_check_mark:
