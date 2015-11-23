@@ -28,3 +28,7 @@ Pink Floyd     | [Time](http://www.youtube.com/watch?v=Z-OytmtYoOI)             
 Roling Stones  | [Paint it black](http://www.youtube.com/watch?v=50u9bxRwBJI)                | 160 |
 Sex Pistols    | [Anarchy in the UK](http://www.youtube.com/watch?v=cBojbjoMttI)             | 135 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Sex%20Pistols%20-%20Anarchy%20in%20the%20UK)
 Tiamat         | [Vote for Love](http://www.youtube.com/watch?v=MAvVTRsMAOg)                 |
+
+
+[:notebook: Reading drum tabs help](http://www.drumsoloartist.com/wiki/drum_techniuqes/reading_drum_tabs)
+[:notebook_with_decorative_cover: How to read drum tabs](http://www.wikihow.com/Read-Drum-Tabs)
