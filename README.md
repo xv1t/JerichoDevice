@@ -25,6 +25,7 @@ Metalica       | [Enter Sandman](http://www.youtube.com/watch?v=_W7wqQwa-TU)    
 Ozzy Osbourne  | [I dont wanna change the world](http://www.youtube.com/watch?v=8d6AgoFStFQ) | 120 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Ozzy%20Osbourne%20-%20I%20dont%20wanna%20change%20the%20world)
 Pain           | [Shut Your mouth](http://www.youtube.com/watch?v=C1mRO8aqjz8)               |     |
 Pink Floyd     | [Time](http://www.youtube.com/watch?v=Z-OytmtYoOI)                          | 134 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Pink%20Floyd%20-%20Time)
+Rammstein      | Links |
 Roling Stones  | [Paint it black](http://www.youtube.com/watch?v=50u9bxRwBJI)                | 160 |
 Sex Pistols    | [Anarchy in the UK](http://www.youtube.com/watch?v=cBojbjoMttI)             | 135 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Sex%20Pistols%20-%20Anarchy%20in%20the%20UK)
 Tiamat         | [Vote for Love](http://www.youtube.com/watch?v=MAvVTRsMAOg)                 |
