@@ -9,16 +9,16 @@ Black Sabbath  | [Never Say Die](http://www.youtube.com/watch?v=2Q6gPouusHs)    
 Black Sabbath  | [N.I.B.](http://www.youtube.com/watch?v=MiY2JsGXrtM)                        | 102 |
 Black Sabbath  | [Paranoid](http://www.youtube.com/watch?v=J4Eu6pFmXCg)                      | 160 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Black%20Sabbath%20-%20Paranoid)
 Black Sabbath  | [Sabbath Bloody Sabbath](http://www.youtube.com/watch?v=mfTpjrzas5E)        |     |
-Jericho Device | Alien world                   |     |
-Jericho Device | Arriving from day             | 134 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Jericho%20Device%20-%20Arriving%20from%20day)
+Jericho Device | [Alien world](http://www.youtube.com/watch?v=ceqHVS1F9ks&list=PLsG3IQGyrlbpfFX7n-xxytloNbGfzZhKN&index=1)                   |     |
+Jericho Device | [Arriving from day](http://www.youtube.com/watch?v=-wnOF7S7RNs&list=PLsG3IQGyrlbpfFX7n-xxytloNbGfzZhKN&index=2)             | 134 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Jericho%20Device%20-%20Arriving%20from%20day)
 Jericho Device | Dungeon                       |     |
-Jericho Device | Ghost                         | 105 | 
-Jericho Device | Jericho                       | 125 | 
+Jericho Device | [Ghost](http://www.youtube.com/watch?v=rzS6LohVja4&list=PLsG3IQGyrlbrdfZ-5a0OrOS3tCW2FXp6Z&index=2)                         | 105 | 
+Jericho Device | [Jericho](http://www.youtube.com/watch?v=Yy4PfQKA5Pw&list=PLsG3IQGyrlbpfFX7n-xxytloNbGfzZhKN&index=5)                       | 125 | 
 Jericho Device | Question Between Two Sides    |     |
-Jericho Device | Shadow Princes                | 100 |
+Jericho Device | [Shadow Princes](https://youtu.be/rzS6LohVja4?list=PLsG3IQGyrlbrdfZ-5a0OrOS3tCW2FXp6Z&t=261)                | 100 |
 Jericho Device | The Dune                      | 126 |
 Jericho Device | Time                          |     |
-Jericho Device | To Name a Cat                 | 135 |
+Jericho Device | [To Name a Cat](https://youtu.be/ze0dpcPykjA?list=PLsG3IQGyrlbrdfZ-5a0OrOS3tCW2FXp6Z&t=571)                 | 135 |
 Kiss           | [Psycho Circus](http://www.youtube.com/watch?v=lI1TaF5onuw)                 | 120 | [:white_check_mark:](https://github.com/xv1t/JerichoDevice/blob/master/Drum-tabs/Kiss%09Psycho%20-%20Circus)
 Kiss           | [Strutter](http://www.youtube.com/watch?v=i7gJQx-Zv2U)                      | 130 |
 Metalica       | [Enter Sandman](http://www.youtube.com/watch?v=_W7wqQwa-TU)                 |     |
